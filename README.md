@@ -75,11 +75,10 @@ react-use - Custom React hooks
 tailwindcss - Styling framework
 
 📁 Project Structure
-text
 movie-discovery-app/
 ├── src/
 │   ├── components/
-│   │   ├── MovieCard.jsx      # Individual movie component
+│   │   ├── MovieCard.jsx     
 │   │   ├── Search.jsx         # Search input component
 │   │   └── Spinner.jsx        # Loading spinner
 │   ├── appwrite.js            # Appwrite service layer
@@ -93,6 +92,7 @@ movie-discovery-app/
 ├── .env                       # Environment variables
 ├── index.html                 # HTML template
 └── package.json
+
 🔧 API Integration
 TMDB API
 The app integrates with The Movie Database API to:
@@ -113,7 +113,13 @@ Track trending movies
 Persist user interaction data
 
 🙏 Acknowledgments
-Fetiya Yusuf   [@fafiyusuf]([https://github.com/fafiyusuf])
-Lelo Muhammed  [@lu00009]([https://github.com/lu00009])
-Temkin Abdulmelik [@Temkin236]([https://github.com/Temkin236])
-Siham Kassim [@Sihamkassim]([https://github.com/Sihamkassim])
+
+[@fafiyusuf](https://github.com/fafiyusuf)
+
+[@lu00009](https://github.com/lu00009)
+
+[@Temkin236](https://github.com/Temkin236)
+
+[@Sihamkassim](https://github.com/Sihamkassim)
+
+
